@@ -1,0 +1,42 @@
+
+pre{
+    font-size: 30px;
+    color: green;
+}
+body{
+    max-width: 1460px;
+    background-color: azure;
+    border: 2px solid blue;
+    margin: 4opx;
+    border-radius: 2rem;
+}
+img{
+    float: left;
+}
+nav,pre{
+    border-radius: 2rem;
+padding: 2rem;
+margin: 0px;
+background-color:rgb(106, 165, 255);
+text-align: center;
+font-size: 40px;
+float: center;
+overflow: hidden;
+box-sizing: border-box;
+text-align: justify;
+line-height: 3rem;
+display: block;
+color:green;
+}
+a:hover{
+    background-color:gold;
+   
+}
+a:active{
+    color: red;
+}
+p,article{
+    font-size: 40px;
+    text-align: center;
+    color:blue;
+}
